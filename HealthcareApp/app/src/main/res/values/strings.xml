@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HealthcareApp</string>
+    <string name="enter_passcode">ENTER PASSCODE</string>
+    <string name="enter">ENTER</string>
+    <string name="please_scan_qr_code">Please scan QR code</string>
+    <string name="passcode">PASSCODE</string>
+    <string name="hint">hint</string>
+    <string name="passcode_here">PASSCODE HERE</string>
+    <string name="healthcare_blockchain">Healthcare Blockchain</string>
+    <string name="todo">TODO</string>
+</resources>
