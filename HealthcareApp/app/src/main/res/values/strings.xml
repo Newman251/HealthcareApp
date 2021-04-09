@@ -8,4 +8,7 @@
     <string name="passcode_here">PASSCODE HERE</string>
     <string name="healthcare_blockchain">Healthcare Blockchain</string>
     <string name="todo">TODO</string>
+    <string name="public_key">PUBLIC KEY</string>
+    <string name="perscriptions">Perscriptions:</string>
+    <string name="history">History:</string>
 </resources>

@@ -42,7 +42,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="354dp"
         android:layout_marginBottom="675dp"
-        android:hint="@string/passcode_here" />
+        android:hint="@string/public_key" />
 
 
 </RelativeLayout>
